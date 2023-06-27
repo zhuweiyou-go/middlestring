@@ -1,4 +1,4 @@
-package getmiddlestring
+package middlestring
 
 import "testing"
 
