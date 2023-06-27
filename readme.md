@@ -1,4 +1,4 @@
-# getmiddlestring
+# middlestring
 
 ```bash
 go get -u github.com/zhuweiyou-go/middlestring
